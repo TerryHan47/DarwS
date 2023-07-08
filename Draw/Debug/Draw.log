@@ -1,0 +1,8 @@
+﻿  Draw.cpp
+  DrawDlg.cpp
+C:\Users\HANS\source\repos\Draw\Draw\DrawDlg.cpp(246,20): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\HANS\source\repos\Draw\Draw\DrawDlg.cpp(247,20): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\HANS\source\repos\Draw\Draw\DrawDlg.cpp(310,22): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\HANS\source\repos\Draw\Draw\DrawDlg.cpp(311,22): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+  正在生成代码...
+  Draw.vcxproj -> C:\Users\HANS\source\repos\Draw\Debug\Draw.exe
